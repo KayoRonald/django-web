@@ -10,7 +10,7 @@ tasks:
 ports:
   - port: 8000
     visibility: private
-    onOpen: open-preview
+    onOpen: open-browser
 
 vscode:
   extensions:
